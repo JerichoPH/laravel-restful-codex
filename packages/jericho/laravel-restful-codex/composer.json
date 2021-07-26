@@ -1,0 +1,18 @@
+{
+    "name": "jericho/laravel-restful-codex",
+    "description": "restful framework for laravel",
+    "type": "library",
+    "authors": [
+        {
+            "name": "jericho",
+            "email": "jericho_ph@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "jericho\\LaravelRestfulCodex\\": "src"
+        }
+    },
+    "minimum-stability": "RC",
+    "require": {}
+}
